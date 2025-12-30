@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]  
+# 👋 Hi, I'm Marshal
 **Embedded Systems Engineer | Electronics Enthusiast | Hardware & Firmware Developer**  
 
 Welcome to my GitHub! I am a passionate **embedded software and hardware engineer** with **5 years of experience** designing, developing, and deploying systems across **MCUs and MPUs**.  
