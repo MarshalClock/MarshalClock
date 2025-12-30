@@ -42,6 +42,17 @@ Welcome to my GitHub! I am a passionate **embedded software and hardware enginee
 
 ---
 
+- 🔭 I’m currently working on ESP32 web interfacing
+- 🌱 I’m currently learning HTTP, MQTT
+- 👯 I’m looking to collaborate on IOT projects
+- 🤔 I’m looking for help with WEB Technologies
+- 💬 Ask me about anything Electronics and firmware
+- 📫 How to reach me: marshalclock@gmail.com
+- 😄 Pronouns: Dude from Mars
+- ⚡ Fun fact : Never Went to Mars
+
+---
+
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
